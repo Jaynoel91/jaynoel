@@ -2,9 +2,12 @@
 # Ignore everything by default to avoid accidentally committing personal files
 /*
 
-# Allow this file to be tracked
+# Allow these files to be tracked by default
 !.gitignore
 !README.md
+!LICENSE
+!tracked/
+!tracked/**
 
 # To start tracking something, unignore it by adding a line starting with '!'
 # Examples:
