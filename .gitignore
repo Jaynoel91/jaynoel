@@ -4,6 +4,7 @@
 
 # Allow this file to be tracked
 !.gitignore
+!README.md
 
 # To start tracking something, unignore it by adding a line starting with '!'
 # Examples:
